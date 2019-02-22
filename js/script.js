@@ -1,4 +1,4 @@
-/*Gabriel criado 2019*/
+/*Gabriel 2019*/
 $(document).ready(function () {
 /*-------------guardo un nuevo trabajador al pulsar el boton----------------------------------- */
     $("#grabar").click(function () {
